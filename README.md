@@ -1,5 +1,8 @@
-### Hi there 👋
+# DeDandeMan
+Truth, Purpose, Skill
 
+# About Me
+I am an aspiring Software developer. I hope to be able to make the world a better place.
 <!--
 **DeDandeMan/DeDandeMan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
